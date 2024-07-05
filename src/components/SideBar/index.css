@@ -1,0 +1,20 @@
+.main-side-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+.aiports-con {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: grey;
+}
+.icon-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.icon {
+  padding-right: 10px;
+}
